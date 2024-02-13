@@ -18,7 +18,8 @@ The backend of the website is powered by Firebase. We use Firebase Storage for s
 
 ## Image
 
-[Screenshot](PaperreviewHub.png)
+![PaperreviewHub](https://github.com/kgaurav8026/PaperReviewHub/assets/78530088/a9453cf2-a809-4011-8373-8eb4d8218bcf)
+
 ## Contributing
 
 We welcome contributions! Please see our Contributing Guide for more details.
