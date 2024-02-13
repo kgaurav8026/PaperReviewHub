@@ -18,10 +18,7 @@ The backend of the website is powered by Firebase. We use Firebase Storage for s
 
 ## Image
 
-!Image Description
-
-Replace `https://miro.medium.com/v2/resize:fit:786/format:webp/0*bjIcp7RgBJK1PlGK` with the link to your image. Make sure the image is hosted somewhere accessible (like a GitHub repository).
-
+!PaperreviewHub
 ## Contributing
 
 We welcome contributions! Please see our Contributing Guide for more details.
